@@ -97,9 +97,9 @@ npm start
 ## 捐赠支持
 如果您觉得这个项目对您有帮助，可以通过以下地址进行捐赠支持项目开发：
 
-- EVM (以太坊/BSC/Polygon等): 0xD6611773079e022B4E403a5DF8152Cda9fA9B11f 或 jessdy.eth
-- Solana: EEG8sYSWaU7S9c1NPKvkzWXZbfutvoRaR7sNtqrA22ru
-- Bitcoin: bc1pv5xfcrvqadltd9vj83k7lshtz9vj4caj2uldj8d87e6f4c4p5unqh9um6q
+- EVM (以太坊/BSC/Polygon等): `0xD6611773079e022B4E403a5DF8152Cda9fA9B11f` 或 `jessdy.eth`
+- Solana: `EEG8sYSWaU7S9c1NPKvkzWXZbfutvoRaR7sNtqrA22ru`
+- Bitcoin: `bc1pv5xfcrvqadltd9vj83k7lshtz9vj4caj2uldj8d87e6f4c4p5unqh9um6q`
 
 您的支持是我们持续改进和维护项目的动力！🙏
 
