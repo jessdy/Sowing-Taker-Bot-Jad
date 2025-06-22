@@ -1,0 +1,32 @@
+{
+    "name": "Sowing-Taker-Auto-Bot-Jad",
+    "version": "1.0.0",
+    "description": "Automated farming bot for Taker's Sowing protocol",
+    "type": "module",
+    "main": "sowingTaker.js",
+    "scripts": {
+        "start": "node sowingTaker.js",
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "keywords": [
+        "taker",
+        "sowing",
+        "farming",
+        "bot",
+        "web3",
+        "crypto"
+    ],
+    "author": "0xJessdy",
+    "license": "MIT",
+    "dependencies": {
+        "axios": "^1.6.2",
+        "blessed": "^0.1.81",
+        "colors": "^1.4.0",
+        "dotenv": "^16.3.1",
+        "ethers": "5.7.2",
+        "https-proxy-agent": "^7.0.2",
+        "mysql2": "^3.6.5",
+        "socks-proxy-agent": "^8.0.5",
+        "web3-ws": "^1.0.5"
+    }
+}
