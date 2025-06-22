@@ -27,8 +27,8 @@
 1. 克隆仓库：
 
 ```bash
-git clone https://github.com/TestnetMaster29/Sowing-Taker-Bot.git
-cd Sowing-Taker-Bot
+git clone https://github.com/jessdy/Sowing-Taker-Bot-Jad.git
+cd Sowing-Taker-Bot-Jad
 ```
 
 2. 安装依赖：
