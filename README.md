@@ -1,4 +1,4 @@
-# Sowing Taker Bot 自动机器人
+# Sowing Taker Bot 自动机器人（已结束）
 
 一个专为与 Taker Sowing 协议交互而设计的自动化挖矿机器人。该机器人帮助自动化每日签到和挖矿活动，以积累 Taker 积分，这些积分可能对未来的空投有价值。
 
